@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I'm SUMAN KUMAR A.K.A. Sumanx16 </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I'm SUMAN KUMAR </h1>
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Rowdies&weight=700&size=27&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=I+am+a+Web+Developer+%F0%9F%9A%80;I+am+a+Coder+%F0%9F%91%BE;I+am+a+Entrepreneur+%F0%9F%92%A1" 
@@ -96,6 +96,8 @@
 
 ---
 
+### 🌟 Activity Graph  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumanx16&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🌐 Connect with Me:
 
 <div align="center">
@@ -122,11 +124,6 @@
 
 </div>
 
-# ✨ Connect With Me:
-
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com  
 
 ---
 
