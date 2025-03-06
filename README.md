@@ -98,7 +98,7 @@
 
 ### 🌟 Activity Graph  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumanx16&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-### 🌐 Connect with Me:
+
 
 <div align="center">
   
