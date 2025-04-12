@@ -1,10 +1,11 @@
-    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I'm SUMAN KUMAR </h1>
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Rowdies&weight=700&size=27&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=I+am+a+Web+Developer+%F0%9F%9A%80;I+am+a+Coder+%F0%9F%91%BE;I+am+a+Entrepreneur+%F0%9F%92%A1" 
-             alt="Typing SVG" />
-    </a>
-</div>
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I'm SUMAN KUMAR</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rowdies&weight=700&size=27&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=I+am+a+Web+Developer+%F0%9F%9A%80;I+am+a+Coder+%F0%9F%91%BE;I+am+a+Entrepreneur+%F0%9F%92%A1" alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 <h3 align="center">A Front-End & Web Application Developer in Exploit OverLords Group. </h3>
