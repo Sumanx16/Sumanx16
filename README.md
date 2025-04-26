@@ -157,4 +157,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote"/>
 </div>
 
-> *"A good network is the ultimate net worth, let's catch up and brew something great together!"*
