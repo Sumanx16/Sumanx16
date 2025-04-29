@@ -6,13 +6,14 @@
   </a>
 </p>
 
-
-
-<h3 align="center">A Front-End & Web Application Developer in Exploit OverLords Group. </h3>
+<h4 align="center">A Front-End & Web Application Developer in Exploit OverLords Group. </h4>
 <div align="center">
-     <img src="https://github.com/Sumanx16/Resources_Vib3s/blob/main/SUman.jpeg" alt="Sumanx16" width="600" style="vertical-align: bottom"/><br/>
+     <td align="left" valign="top">      
+   </td>
+      <td align="right" valign="top">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="300" alt="GIF Animation"/>
+      </td>
 </div>
-
 
 ### 💫 About Me:
 <a href="#">
@@ -126,32 +127,7 @@
 </div>
 
 ---
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" valign="top">
-        <h1>✨ Connect With Me:</h1>
-        <ul style="list-style-type: none; padding: 0; margin: 0;">
-          <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/suman-kumar16">www.linkedin.com/in/suman-kumar16</a></li>
-          <li><strong>Portfolio</strong>: Coming Soon! 🔜</li>
-          <li><strong>Email</strong>: <a href="mailto:sumankrsinha14@gmail.com">sumankrsinha14@gmail.com</a></li>
-        </ul>
-      </td>
-      <td align="right" valign="top">
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="300" alt="GIF Animation"/>
-      </td>
-      <td align="left" valign="top" style="padding-left: 20px;">
-        <h1>🚀 Skills & Expertise:</h1>
-        <ul style="list-style-type: none; padding: 0; margin: 0;">
-          <li>💻 Programming Languages: Java, Python, C++</li>
-          <li>🌐 Web Development: HTML, CSS, JavaScript, React</li>
-          <li>📊 Data Science: Machine Learning, Deep Learning, NLP</li>
-          <li>🔧 Tools & Technologies: Git, Docker, Kubernetes</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote"/>
