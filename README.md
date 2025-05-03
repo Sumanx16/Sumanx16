@@ -127,6 +127,13 @@
 </div>
 
 ---
+# ✨ Connect With Me:
+
+- **LinkedIn**: www.linkedin.com/in/suman-kumar16
+- **Portfolio**: 🔜!  
+- **Email**: sumankrsinha14@gmail.com 
+# ✨ Connect With Me:
+-  
 
 
 
