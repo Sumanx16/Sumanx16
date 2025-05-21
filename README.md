@@ -17,7 +17,7 @@
 
 ### 💫 About Me:
 <a href="#">
-  <img alt="Janardon's Profile Views" src="https://komarev.com/ghpvc/?username=sumanx16&color=blue" />
+  <img alt="Janardon's Profile Views" src="https://komarev.com/ghpvc/?username=sumanx16&color=blue" /> 
 </a>
 <a href="https://github.com/janardannn?tab=followers">
   <img alt="Janardon's Profile Views" src="https://img.shields.io/github/followers/janardannn.svg?style=flat&label=Follow" />
@@ -136,44 +136,6 @@
 - **Email**: sumankrsinha14@gmail.com  
 # ✨ Connect With Me:
 
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com  
-# ✨ Connect With Me:
-
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com  
-# ✨ Connect With Me:
-
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com  
-# ✨ Connect With Me:
-
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com  
-# ✨ Connect With Me:
-
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com  
-# ✨ Connect With Me:
-
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com  
-# ✨ Connect With Me:
-
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com  
-# ✨ Connect With Me:
-
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com  
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote"/>
