@@ -51,7 +51,7 @@
 
 ### 🏆 Github Streaks:
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=udit01111&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=sumanx16&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
