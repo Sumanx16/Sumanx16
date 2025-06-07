@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I'm SUMAN KUMAR</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
