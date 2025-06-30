@@ -1,20 +1,9 @@
 <h1 align="center">
-  <span style="display:inline-block; animation:wave 2s infinite;">👋</span>
-  Hey, I'm <strong>SUMAN KUMAR</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle;"/>  
+  Hi, I'm <strong>SUMAN KUMAR A.K.A Sumanx16</strong>
 </h1>
 
-<style>
-@keyframes wave {
-  0% { transform: rotate(0.0deg) }
-  10% { transform: rotate(14.0deg) }
-  20% { transform: rotate(-8.0deg) }
-  30% { transform: rotate(14.0deg) }
-  40% { transform: rotate(-4.0deg) }
-  50% { transform: rotate(10.0deg) }
-  60% { transform: rotate(0.0deg) }
-  100% { transform: rotate(0.0deg) }
-}
-</style>
+
 
 
 <p align="center">
