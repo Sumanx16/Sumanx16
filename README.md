@@ -82,10 +82,11 @@
 ---
 
 ### 📊 GitHub Stats:
-<div align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Sumanx16&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanx16&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumanx16&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanx16&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+</p>
+
 
 ---
 
