@@ -133,8 +133,6 @@
 ---  
 
 
-- **Email**: sumankrsinha14@gmail.com
-
 
 
 <div align="center">
