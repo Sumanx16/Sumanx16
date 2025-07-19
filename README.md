@@ -132,11 +132,8 @@
 
 ---  
 
-# ✨ Connect With Me:
+s
 
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote"/>
 </div>
