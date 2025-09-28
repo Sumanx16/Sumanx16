@@ -132,28 +132,7 @@
 
 ---  
 
-multiset<int> st;
-        int left=0;
-        int right=0;
-        int start=0;
-        int last=0;
-        while(right<arr.size()){
-            st.insert(arr[right]);
-            while(!st.empty() and (*prev(st.end())- *st.begin()>x)){
-                st.erase(st.find(arr[left]));
-                left++;
-            }
-            if(right- left+ 1> last- start+1){
-                start=left;
-                last= right;
-            }
-            right++;
-        }
-        vector<int> ans;
-        for(int i=start; i<=last; i++){
-            ans.push_back(arr[i]);
-        }
-        return ans;
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote"/>
